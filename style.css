@@ -28,7 +28,6 @@ body {
 .cartao__conteudo {
     background-color: rgba(245, 238, 42, 0.471);
     text-align: center;
-    /* background-color: aquamarine; */
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
