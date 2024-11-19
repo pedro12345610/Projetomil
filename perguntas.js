@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Copa do mundo',
+    'O que é a copa do mundo?',
+    'Um campeonato de futebol entre países do mundo todo'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Copa do mundo',
+    'Qual o maior país de futebol do mundo?',
+    'Brasil'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Copa do mundo',
+    'Quem ganhou a útima copa do mundo?',
+    'Argentina'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Copa do mundo',
+    'A copa do mundo é feita de quanto em quanto tempo?',
+    'A cada 4 anos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Copa do mundo',
+    'Em que ano ocorreu a primeira copa?',
+    '1930'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Copa do mundo',
+    'O país que mais venceu jogos da Copa do Mundo?',
+    'Brasil'
 )
